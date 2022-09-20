@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eftekin&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)
+        [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)
 
 [![](https://visitcount.itsvg.in/api?id=Eftekin&icon=0&color=12)](https://visitcount.itsvg.in)
 

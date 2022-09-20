@@ -11,7 +11,9 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eftekin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eftekin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eftekin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eftekin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)
 
 
 

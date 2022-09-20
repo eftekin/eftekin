@@ -1,38 +1,24 @@
-<h1 align="center">Hi 👋, I'm Eftekin</h1>
-<h3 align="center">A software engineering student from Istanbul</h3>
+# Hi 👋, I'm Eftekin:
+## A software engineering student from Istanbul
+🔭 I’m currently working on Swift Codecademy Projects<br><br>🌱 I’m currently learning Swift, IOS Development<br><br>👨‍💻 All of my projects are available at eftekin.net<br><br>📫 How to reach me mustafa@eftekin.net<br><br>⚡ Fun fact I really like playing Minecraft
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eftekin&label=Profile%20views&color=5e30eb&style=flat" alt="eftekin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eftekin" alt="eftekin" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/SpN6SUn9Jp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eftekindev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eftekin) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/meftekin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/efmacin) 
 
-<p align="left"> <a href="https://twitter.com/efmacin" target="blank"><img src="https://img.shields.io/twitter/follow/efmacin?logo=twitter&style=for-the-badge" alt="efmacin" /></a> </p>
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Eftekin&theme=swift&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eftekin&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eftekin&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on [Swift Codecademy Projects](https://github.com/eftekin/Swift-Codecademy-Projects)
+---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)
 
-- 🌱 I’m currently learning **Swift, IOS Development**
+[![](https://visitcount.itsvg.in/api?id=Eftekin&icon=0&color=12)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [eftekin.net](eftekin.net)
+  ## 💰 Support me
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/eftekin) 
 
-- 📫 How to reach me **mustafa@eftekin.net**
-
-- ⚡ Fun fact **I really like playing Minecraft**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/efmacin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efmacin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eftekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eftekin" height="30" width="40" /></a>
-<a href="https://instagram.com/eftekindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eftekindev" height="30" width="40" /></a>
-<a href="https://discord.gg/SpN6SUn9Jp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SpN6SUn9Jp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/eftekin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eftekin" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eftekin&show_icons=true&theme=dark&locale=en&layout=compact" alt="eftekin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eftekin&show_icons=true&locale=en" alt="eftekin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eftekin&theme=dark" alt="eftekin" /></p>
+  

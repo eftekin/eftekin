@@ -11,10 +11,10 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eftekin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eftekin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eftekin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eftekin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=eftekin&icon=0&color=0)](https://visitcount.itsvg.in)
 <a href="https://www.buymeacoffee.com/eftekin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=eftekin&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>

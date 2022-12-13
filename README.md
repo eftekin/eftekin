@@ -16,6 +16,7 @@
 
 ---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)
+[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000084.9bcda61723694483aa278f8b9b4cd108.2005)](https://github.com/rayriffy/apple-music-github-profile)
 
 [![](https://visitcount.itsvg.in/api?id=Eftekin&icon=0&color=12)](https://visitcount.itsvg.in)
 

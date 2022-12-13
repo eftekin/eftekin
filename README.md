@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eftekin&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000084.9bcda61723694483aa278f8b9b4cd108.2005)](https://eftekin.net)
+[![Apple Music](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000084.9bcda61723694483aa278f8b9b4cd108.2005)](https://eftekin.net)
 
 [![](https://visitcount.itsvg.in/api?id=Eftekin&icon=0&color=12)](https://visitcount.itsvg.in)
 

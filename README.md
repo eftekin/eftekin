@@ -1,6 +1,6 @@
 # Hi 👋, I'm Eftekin:
 ## A software engineering student from Istanbul
-🔭 I’m currently working on Swift Codecademy Projects<br><br>🌱 I’m currently learning Swift, IOS Development<br><br>👨‍💻 All of my projects are available at eftekin.net<br><br>📫 How to reach me mustafa@eftekin.net<br><br>⚡ Fun fact I really like playing Minecraft
+🔭 I’m currently working on Swift Codecademy Projects<br><br>🌱 I’m currently learning Swift, IOS Development<br><br>👨‍💻 All of my projects are available at eftekin.net<br><br>📫 How to reach me mustafa@eftekin.net<br><br>⚡ Fun fact I really like playing Minecraft and Fall Guys
 
 
 ## 🌐 Socials:

@@ -16,6 +16,8 @@
 
 ---
 [![Apple Music](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000084.9bcda61723694483aa278f8b9b4cd108.2005)](https://eftekin.net)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+(I use Spotify with Alexa only.)
 
 [![](https://visitcount.itsvg.in/api?id=Eftekin&icon=0&color=12)](https://visitcount.itsvg.in)
 

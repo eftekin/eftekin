@@ -1,6 +1,6 @@
 # Hi 👋, I'm Eftekin:
 ## A software engineering student from Istanbul
-🔭 I’m currently working on Data Scientist: Machine Learning Career Path<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at eftekin.net<br><br>📫 How to reach me mustafa@eftekin.dev<br><br>⚡ Fun fact I really like playing Minecraft and Fall Guys
+🔭 I’m currently working on Data Scientist: Machine Learning Career Path<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at eftekin.dev<br><br>📫 How to reach me mustafa@eftekin.dev<br><br>⚡ Fun fact I really like playing Minecraft and Fall Guys
 
 
 ## 🌐 Socials:

@@ -28,16 +28,16 @@ I'm a software engineering student based in Istanbul. Currently working on Data 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eftekin&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24" alt="eftekin's Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eftekin&theme=dark&hide_border=false" alt="eftekin's Streak" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eftekin&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="eftekin's Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=eftekin&theme=default&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24" alt="eftekin's Stats" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eftekin&theme=default&hide_border=false" alt="eftekin's Streak" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eftekin&theme=default&show_icons=true&hide_border=false&layout=compact" alt="eftekin's Top Languages" height="150">
 </p>
 
 <!-- Listening to -->
 ## 🎧 Listening To
 
 ### Apple Music
-[![Apple Music](https://apple-music-github-profile.rayriffy.com/theme/dark.svg?uid=000084.9bcda61723694483aa278f8b9b4cd108.2005)](https://eftekin.dev)
+[![Apple Music](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000084.9bcda61723694483aa278f8b9b4cd108.2005)](https://eftekin.dev)
 
 ### Spotify
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/11152987746)<br>

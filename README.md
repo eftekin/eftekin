@@ -48,6 +48,6 @@ I'm a software engineering student based in Istanbul. Currently working on Data 
 If you found any of my work helpful, please consider supporting me by buying me a coffee!
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/eftekin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a burger&emoji=🍔&slug=eftekin&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/eftekin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=eftekin&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 

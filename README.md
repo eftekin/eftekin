@@ -40,7 +40,7 @@ I'm a software engineering student based in Istanbul. Currently working on Data 
 [![Apple Music](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000084.9bcda61723694483aa278f8b9b4cd108.2005)](https://eftekin.dev)
 
 ### Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/11152987746)<br>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=true&background_color=d6d6d6&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)<br>
 <small>I use Spotify with Alexa only</small>
 
 <!-- Support -->

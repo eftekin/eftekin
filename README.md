@@ -11,7 +11,6 @@ I'm a software engineering student based in Istanbul. Currently working on Data 
 - LinkedIn: https://linkedin.com/in/eftekin
 - Twitter: https://twitter.com/eftekindev
 - Instagram: https://instagram.com/eftekindev
-- Twitch: https://twitch.tv/eftekindev
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack

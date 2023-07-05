@@ -3,7 +3,7 @@
 
 <!-- About Me -->
 ## About Me
-I'm a software engineering student in Istanbul. Currently working on Data Scientist: Machine Learning Career Path and learning Python.
+I'm a software engineering student based in Istanbul. Currently working on Data Scientist: Machine Learning Career Path and learning Python.
 
 <!-- Contact Me -->
 ## 📫 Contact Me

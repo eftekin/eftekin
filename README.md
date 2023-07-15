@@ -7,7 +7,7 @@ I'm a software engineering student based in Istanbul. Currently working on Data 
 
 <!-- Contact Me -->
 ## 📫 Contact Me
-- Email: mustafa@eftekin.dev
+- Email: mustafa@eftekin.net
 - LinkedIn: https://linkedin.com/in/eftekin
 - Twitter: https://twitter.com/eftekindev
 - Instagram: https://instagram.com/eftekindev

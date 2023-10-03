@@ -10,7 +10,6 @@ I'm a software engineering student based in Istanbul. Currently working on Data 
 - Email: mustafa@eftekin.dev
 - LinkedIn: https://linkedin.com/in/eftekin
 - Twitter: https://twitter.com/eftekindev
-- Instagram: https://instagram.com/eftekindev
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack

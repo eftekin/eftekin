@@ -3,8 +3,8 @@
 
 <!-- About Me -->
 ## About Me
-I'm a software engineering student based in Istanbul. Currently studying on Data Scientist: Machine Learning Career Path and learning Python.
 
+I'm a software engineering student in Istanbul, currently exploring data science and machine learning through the Data Scientist: Machine Learning Career Path. If our interests align or you see potential opportunities, I'd love to connect! Feel free to reach out to me at [mustafa@eftekin.dev](mailto:mustafa@eftekin.dev)
 <!-- Contact Me -->
 ## 📫 Contact Me
 - Email: mustafa@eftekin.dev
@@ -51,7 +51,6 @@ I'm a software engineering student based in Istanbul. Currently studying on Data
 
 ### Spotify
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)<br>
-<small>I use Spotify with Alexa only</small>
 
 <!-- Support -->
 ## 💰 Support Me
@@ -59,5 +58,13 @@ If you found any of my work helpful, please consider supporting me by buying me 
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/eftekin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=eftekin&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+##
+<div align="center">
+  <p>Thanks for checking out my profile, and I look forward to connecting with like-minded professionals for mutual growth and success!</p><br>
+  <img src="https://komarev.com/ghpvc/?username=eftekin"/>
+
+</div>
+
 
 

@@ -43,8 +43,9 @@ I'm a software engineering student in Istanbul, currently exploring data science
 
 <!-- Listening to -->
 ## 🎧 Listening To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)<br>
+<div align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true"/></a>
+</div>
 
 
 ##

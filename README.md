@@ -5,11 +5,6 @@
 ## About Me
 
 I'm a software engineering student in Istanbul, currently exploring data science and machine learning through the Data Scientist: Machine Learning Career Path. If our interests align or you see potential opportunities, I'd love to connect! Feel free to reach out to me at [mustafa@eftekin.dev](mailto:mustafa@eftekin.dev)
-<!-- Contact Me -->
-## 📫 Contact Me
-- Email: mustafa@eftekin.dev
-- LinkedIn: https://linkedin.com/in/eftekin
-- Twitter: https://twitter.com/eftekindev
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
@@ -49,7 +44,6 @@ I'm a software engineering student in Istanbul, currently exploring data science
 <!-- Listening to -->
 ## 🎧 Listening To
 
-### Spotify
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true)<br>
 
 <!-- Support -->

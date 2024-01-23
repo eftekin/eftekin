@@ -7,8 +7,11 @@
 I'm a software engineering student in Istanbul, currently exploring data science and machine learning through the Data Scientist: Machine Learning Career Path. If our interests align or you see potential opportunities, I'd love to connect! Feel free to reach out to me at [mustafa@eftekin.dev](mailto:mustafa@eftekin.dev)
 
 <!-- Tech Stack -->
-## 💻 Tech Stack
-<div align="left">
+<h2 align="center">💻 Tech Stack</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -34,7 +37,10 @@ I'm a software engineering student in Istanbul, currently exploring data science
 
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eftekin&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eftekin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&hide_border=true&order=2" height="130" alt="languages graph"  />
@@ -42,7 +48,10 @@ I'm a software engineering student in Istanbul, currently exploring data science
 </div>
 
 <!-- Listening to -->
-## 🎧 Listening To
+<h2 align="center">🎧 Listening To</h2>
+
+###
+
 <div align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true"/></a>
 </div>

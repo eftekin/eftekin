@@ -57,7 +57,7 @@ I'm a software engineering student in Istanbul, currently exploring data science
 ###
 
 <div align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=11152987746&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true"/></a>
+<a href="https://open.spotify.com/user/11152987746?si=71e3fb84d4ae4de7"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/></a>
 </div>
 
 

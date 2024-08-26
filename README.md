@@ -2,9 +2,10 @@
 <h1 align="center">hey there 👋, i'm eftekin</h1>
 
 <!-- About Me -->
+
 ## About Me
 
-I'm a software engineering student in Istanbul, currently exploring data science and machine learning through the Data Scientist: Machine Learning Career Path. If our interests align or you see potential opportunities, I'd love to connect! Feel free to reach out to me at [mustafa@eftekin.dev](mailto:mustafa@eftekin.dev)
+I'm a software engineering student in Istanbul, currently exploring data science and machine learning through the Machine Learning/AI Engineer Career Path. If our interests align or you see potential opportunities, I'd love to connect! Feel free to reach out to me at mustafa@eftekin.dev.
 
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
@@ -37,8 +38,6 @@ I'm a software engineering student in Istanbul, currently exploring data science
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /></a>
 </div>
 
-
-
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -50,7 +49,6 @@ I'm a software engineering student in Istanbul, currently exploring data science
   <a href="#"><img src="https://streak-stats.demolab.com?user=eftekin&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph" style="pointer-events: none;" /></a>
 </div>
 
-
 <!-- Listening to -->
 <h2 align="center">🎧 Listening To</h2>
 
@@ -60,13 +58,10 @@ I'm a software engineering student in Istanbul, currently exploring data science
 <a href="https://open.spotify.com/user/11152987746?si=71e3fb84d4ae4de7"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11152987746&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/></a>
 </div>
 
-
 ##
+
 <div align="center">
   <p>Thanks for checking out my profile, and I look forward to connecting with like-minded professionals for mutual growth and success!</p><br>
   <img src="https://komarev.com/ghpvc/?username=eftekin"/><br>
   <a href="https://www.buymeacoffee.com/eftekin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=eftekin&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="30"/></a>
 </div>
-
-
-

@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a software engineering student in Istanbul, currently exploring data science and machine learning through the Machine Learning/AI Engineer Career Path. If our interests align or you see potential opportunities, I'd love to connect! Feel free to reach out to me at mustafa@eftekin.dev.
+I'm a third-year software engineering student in Istanbul, diving deep into data science and machine learning through the Machine Learning/AI Engineer Career Path. I'm open to internship and job opportunities, so if our interests align or you see potential opportunities, I'd love to connect! Feel free to reach out to me at mustafa@eftekin.dev.
 
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>

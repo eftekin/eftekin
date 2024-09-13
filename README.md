@@ -5,7 +5,7 @@
 
 <!-- About Me -->
 
-### Hi there, I'm Mustafa 👋
+### Hey there, I'm Eftekin 👋
 
 <p align="left">
   I’m a third-year software engineering student from Istanbul with a passion for <strong>machine learning</strong> and <strong>AI</strong>. 🌟 I focus on developing innovative solutions to tackle real-world problems and make a positive impact on people's lives. 🚀 I might even be building robots to take over the world! 🤖

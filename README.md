@@ -17,9 +17,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-Total Time: 0 secs
-
+```txt
 No activity tracked
 ```
 

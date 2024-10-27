@@ -1,8 +1,3 @@
-<!-- Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=8A2BE2&center=true&width=350&lines=AI+Engineer+in+Progress;Turning+Coffee+into+Code;Building+Tomorrow’s+Tech" alt="Typing SVG" style="pointer-events: none;" />
-</p>
-
 <!-- About Me -->
 
 ### Hey there, I'm Eftekin 👋

@@ -10,6 +10,8 @@
   Currently, I am also diving into <strong>full-stack development</strong> to turn my AI projects into practical applications. 🛠️ My expertise includes a strong foundation in <strong>data science</strong>, where I work extensively with <strong>Python</strong> and popular libraries like <strong>Pandas</strong>, <strong>NumPy</strong>, and <strong>Matplotlib</strong>. Additionally, I have hands-on experience with tools such as <strong>TensorFlow</strong> and <strong>scikit-learn</strong>. I am also proficient in <strong>C++</strong>. If you're interested in discussing technology or exploring collaboration opportunities, feel free to reach out! 🌐
 </p>
 
+**🖥️ Weekly Coding Stats**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -30,7 +32,6 @@ Image (svg)   0 secs          ░░░░░░░░░░░░░░░░�
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eftekin&locale=en&hide_title=false&layout=compact&hide=jupyter%20notebook&card_width=320&langs_count=4&hide_border=true&order=2" height="130" alt="languages graph" /></a>
     <a href="#"><img src="https://streak-stats.demolab.com?user=eftekin&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph" /></a>
   </p>
-
 
   <img src="https://komarev.com/ghpvc/?username=eftekin"/>
 </details>

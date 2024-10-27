@@ -25,5 +25,9 @@
     <a href="#"><img src="https://streak-stats.demolab.com?user=eftekin&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph" /></a>
   </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
   <img src="https://komarev.com/ghpvc/?username=eftekin"/>
 </details>

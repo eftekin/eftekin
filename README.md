@@ -15,10 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 17 mins
+Total Time: 5 mins
 
-Python       1 hr 15 mins    ████████████████████████░   96.58 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Python   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

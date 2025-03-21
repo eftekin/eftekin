@@ -11,13 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 8 mins
+Total Time: 6 hrs 59 mins
 
-TypeScript    4 hrs 22 mins   █████████████▒░░░░░░░░░░░   53.37 %
-Python        1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-C++           56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-fish          35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Objective-C   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+TypeScript   4 hrs 22 mins   ███████████████▓░░░░░░░░░   62.02 %
+Python       1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+fish         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->

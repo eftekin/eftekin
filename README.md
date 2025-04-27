@@ -11,12 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 56 mins
+Total Time: 12 mins
 
-TypeScript   24 mins         ██████████▒░░░░░░░░░░░░░░   41.66 %
-JavaScript   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-C++          7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Text         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+C++    7 mins          ███████████████░░░░░░░░░░   60.55 %
+Text   5 mins          ██████████░░░░░░░░░░░░░░░   39.45 %
 ```
 
 <!--END_SECTION:waka-->

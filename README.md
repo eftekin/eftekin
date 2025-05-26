@@ -11,12 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 10 mins
+Total Time: 0 secs
 
-C++          34 mins         ████████████▒░░░░░░░░░░░░   48.89 %
-TypeScript   33 mins         ███████████▓░░░░░░░░░░░░░   46.71 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -11,9 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 28 mins
 
-No activity tracked
+JavaScript   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+Other        5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
 ```
 
 <!--END_SECTION:waka-->

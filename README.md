@@ -3,7 +3,7 @@
 ### Hey there, I'm Eftekin 👋
 
 <p align="left">
-  I’m a software engineering student based in Istanbul with a strong interest in <strong>artificial intelligence</strong> and <strong>machine learning</strong> 🤖. My goal is to create impactful solutions using technologies like <strong>Python</strong>, <strong>C++</strong>, and libraries such as <strong>Pandas</strong>, <strong>NumPy</strong>, and <strong>TensorFlow</strong> 🧠 to solve real-world problems. Currently, I am focused on turning my AI projects into practical applications while deepening my knowledge in <strong>full-stack development</strong> 💻. I’m always looking for opportunities to collaborate and learn from others in the tech community 🌐.
+senior software engineering student from Istanbul, journeying toward full-stack mastery. I build projects, experiment with new tech, and learn from every challenge. Each line of code is a step closer to creating impactful solutions.
 </p>
 
 **🖥️ Weekly Coding Stats**

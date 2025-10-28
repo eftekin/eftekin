@@ -11,9 +11,10 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 mins
+Total Time: 1 hr 59 mins
 
-Other        25 mins         █████████████░░░░░░░░░░░░   51.84 %
+TypeScript   1 hr 13 mins    ████████████▓░░░░░░░░░░░░   51.10 %
+Other        25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
 ```
 
 <!--END_SECTION:waka-->

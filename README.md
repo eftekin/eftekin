@@ -13,7 +13,7 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 ```txt
 Total Time: 1 hr 24 mins
 
-Python       1 hr 21 mins    █████████████████████░░░░   83.97 %
+Python       1 hr 22 mins    █████████████████████░░░░   83.98 %
 Other        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
 ```
 

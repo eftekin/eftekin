@@ -13,7 +13,8 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Python   0 secs          ██████████████████████▓░░   90.58 %
+Bash     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
 ```
 
 <!--END_SECTION:waka-->

@@ -13,9 +13,9 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 ```txt
 Total Time: 15 mins
 
-Python   14 mins         ███████████████████████░░   92.49 %
+Python   14 mins         ███████████████████████░░   92.43 %
 MATLAB   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 

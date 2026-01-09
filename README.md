@@ -11,9 +11,11 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 mins
+Total Time: 29 mins
 
-Python   15 mins         █████████████████████████   100.00 %
+Python      29 mins         █████████████████████████   99.81 %
+iCalendar   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

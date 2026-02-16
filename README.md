@@ -13,7 +13,7 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 ```txt
 Total Time: 7 hrs 27 mins
 
-Markdown          3 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.88 %
+Markdown          3 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.89 %
 Python            2 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   32.09 %
 XML               34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 Text              32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %

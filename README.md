@@ -13,9 +13,7 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 ```txt
 Total Time: 7 mins
 
-Go           7 mins                █████████████████████████   99.49 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Go   7 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

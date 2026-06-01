@@ -11,12 +11,12 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 18 mins
+Total Time: 19 hrs 18 mins
 
-Python     15 hrs 16 mins        █████████████████████████   99.78 %
-Markdown   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-HTML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       18 hrs 28 mins        ████████████████████████░   95.34 %
+Markdown     32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other        3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->

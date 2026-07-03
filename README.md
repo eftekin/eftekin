@@ -3,7 +3,7 @@
 ### Hey there, I'm Eftekin 👋
 
 <p align="left">
-senior software engineering student from Istanbul, journeying toward full-stack mastery. I build projects, experiment with new tech, and learn from every challenge. Each line of code is a step closer to creating impactful solutions.
+Software Engineering graduate from Haliç University and Big Data Platform Engineer Intern at Peak Games. I focus on building scalable data systems and high-impact software solutions.
 </p>
 
 **🖥️ Weekly Coding Stats**

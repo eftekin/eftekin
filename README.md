@@ -11,9 +11,9 @@ senior software engineering student from Istanbul, journeying toward full-stack 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 43 mins
 
-No activity tracked
+Bash   43 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

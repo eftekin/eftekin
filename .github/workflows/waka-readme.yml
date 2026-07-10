@@ -1,28 +1,31 @@
-# This is a basic workflow to help you get started with Actions
+name: Update Readme Stats
 
-name: Waka Readme
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   push:
     branches:
       - master
   workflow_dispatch:
   schedule:
-    # Runs at 9am UTC every day
     - cron: "0 9 * * *"
-    # Runs at 9pm UTC every day
     - cron: "0 21 * * *"
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v4
+
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          IGNORED_LANGUAGES: YAML JSON TOML Image
-          STOP_AT_OTHER: true
-          SHOW_TOTAL: true
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: markdown
+          filename: README.md
+          markdown: ./readme-template.md
+          config_output: markdown
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, languages
+          plugin_wakatime_days: 7

@@ -3,7 +3,7 @@ name: Update Readme Stats
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   schedule:
     - cron: "0 9 * * *"
@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: markdown
           filename: README.md
-          markdown: https://raw.githubusercontent.com/eftekin/eftekin/main/readme-template.md
+          markdown: ./readme-template.md
           config_output: markdown
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}

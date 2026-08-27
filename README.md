@@ -1,3 +1,3 @@
 <p align="left">
-software engineering student in istanbul, currently interning at peak. been on GitHub since 2020, 1843 commits across 25 repos. this week: 23h 26m coding, mostly typescript.
+software engineering student in istanbul, currently interning at peak. been on GitHub since 2020, 1845 commits across 25 repos. this week: 22h 42m coding, mostly python.
 </p>

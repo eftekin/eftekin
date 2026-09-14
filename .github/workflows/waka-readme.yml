@@ -16,8 +16,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
+      # Renders the GitHub numbers only. The WakaTime plugin is deliberately not
+      # used: it reads /stats/{range}, a cached rollup that ends at the last
+      # complete day and whose total excludes "Other" language time. The next
+      # step fills those numbers in from /summaries instead.
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -25,8 +29,26 @@ jobs:
           filename: README.md
           markdown: ./readme-template.md
           config_output: markdown
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages
-          plugin_wakatime_days: 7
-          plugin_wakatime_timezone: Europe/Istanbul
+          config_timezone: Europe/Istanbul
+          output_action: none
+
+      - name: Collect rendered README
+        run: |
+          sudo cp /metrics_renders/README.md README.md
+          sudo chown "$(id -u):$(id -g)" README.md
+
+      - name: Resolve WakaTime stats
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python3 scripts/wakatime_week.py README.md
+
+      - name: Commit README
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README unchanged, nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update README.md [skip ci]" -- README.md
+          git push

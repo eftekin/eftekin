@@ -24,7 +24,8 @@ API = "https://wakatime.com/api/v1/users/current/summaries?range=last_7_days"
 # "Other" is WakaTime's bucket for heartbeats with no detected language.
 NOT_A_LANGUAGE = {
     "other", "json", "yaml", "toml", "ini", "markdown", "text",
-    "makefile", "gitignore", "git config", "csv", "log", "image", "html",
+    "makefile", "gitignore", "git config", "csv", "log", "image",
+    "html", "tex", "latex",
 }
 
 

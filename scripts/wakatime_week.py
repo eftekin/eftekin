@@ -26,6 +26,8 @@ NOT_A_LANGUAGE = {
     "other", "json", "yaml", "toml", "ini", "markdown", "text",
     "makefile", "gitignore", "git config", "csv", "log", "image",
     "html", "tex", "latex",
+    # Editor tutorials, help pages and commit buffers, not code.
+    "tutor", "vim help file", "help", "man", "git commit", "diff",
 }
 
 

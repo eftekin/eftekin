@@ -1,3 +1,3 @@
 <p align="left">
-software engineer in istanbul, backend and platform focused. been on GitHub since 2020, 2029 commits across 29 repos. this week: 1h 35m coding, mostly typescript.
+software engineer in istanbul, backend and platform focused. been on GitHub since 2020, 2033 commits across 30 repos. this week: 9h 19m coding, mostly swift.
 </p>

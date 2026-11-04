@@ -16,7 +16,6 @@ import json
 import os
 import sys
 import urllib.request
-from base64 import b64encode
 
 API = "https://wakatime.com/api/v1/users/current/summaries?range=last_7_days"
 
@@ -32,8 +31,8 @@ NOT_A_LANGUAGE = {
 
 
 def fetch(token):
-    auth = b64encode(token.encode()).decode()
-    req = urllib.request.Request(API, headers={"Authorization": f"Basic {auth}"})
+    # API keys are plugin-only since 2026-11; reads need a personal OAuth token.
+    req = urllib.request.Request(API, headers={"Authorization": f"Bearer {token}"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.load(resp)
 
@@ -62,9 +61,9 @@ def main():
         sys.exit("usage: wakatime_week.py <readme-path>")
     path = sys.argv[1]
 
-    token = os.environ.get("WAKATIME_API_KEY", "").strip()
+    token = os.environ.get("WAKATIME_TOKEN", "").strip()
     if not token:
-        sys.exit("WAKATIME_API_KEY is not set")
+        sys.exit("WAKATIME_TOKEN is not set")
 
     payload = fetch(token)
     total, language = total_text(payload), top_language(payload)

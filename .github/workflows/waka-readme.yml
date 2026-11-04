@@ -39,7 +39,7 @@ jobs:
 
       - name: Resolve WakaTime stats
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
         run: python3 scripts/wakatime_week.py README.md
 
       - name: Commit README
